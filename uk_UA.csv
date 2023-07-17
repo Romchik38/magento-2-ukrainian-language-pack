@@ -95,7 +95,7 @@ Please select a website for this product in ""Product in Websites"".",module,Mag
 "Recently Viewed Products (%1)","Нещодавно переглянуті товари (%1)",module,Magento_AdvancedCheckout
 "Add to Shopping Cart by SKU","Додати до кошика покупок за артикулом",module,Magento_AdvancedCheckout
 "Add to Shopping Cart","Додати до кошика покупок",module,Magento_AdvancedCheckout
-"Wish List (%1)","Список бажань (%1)",module,Magento_AdvancedCheckout
+"Wish List (%1)","Список Бажань (%1)",module,Magento_AdvancedCheckout
 "Apply","Застосувати",module,Magento_AdvancedCheckout
 "Configure","Налаштувати",module,Magento_AdvancedCheckout
 "Add to Order by SKU","Додати до замовлення за артикулом",module,Magento_AdvancedCheckout
@@ -168,7 +168,7 @@ Please select a website for this product in ""Product in Websites"".",module,Mag
 "Total %1 product(s)","Загалом %1 товар(и/ів)",module,Magento_AdvancedCheckout
 "Subtotal:","Проміжний підсумок:",module,Magento_AdvancedCheckout
 "Please select","Будь ласка, виберіть",module,Magento_AdvancedCheckout
-"Move to Wish List","Перемістити до списку бажань",module,Magento_AdvancedCheckout
+"Move to Wish List","Перемістити до Списку Бажань",module,Magento_AdvancedCheckout
 "No item specified.","Не вказано жодної позиції.",module,Magento_AdvancedCheckout
 "Are you sure you want to remove this item?","Ви впевнені, що хочете вилучити цю позицію?",module,Magento_AdvancedCheckout
 "SKU number","Номер артиклу",module,Magento_AdvancedCheckout
@@ -1837,7 +1837,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Something went wrong  clearing the comparison list.","Щось пішло не так під час очищення списку порівняння.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Ви видалили товар %1 зі списку порівняння.",module,Magento_Catalog
 "1 item","1 позиція",module,Magento_Catalog
-"%1 items","%1 елементи(ів)",module,Magento_Catalog
+"%1 items","%1 товара(ів)",module,Magento_Catalog
 "The specified Catalog media URL format is not supported.","The specified Catalog media URL format is not supported.",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Ви впавнені що хочете вилучити цей елемент зі Списку порівняння?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Ви впевнені, що хочете видалити усі товари з вашого списку товарів для порівняння?",module,Magento_Catalog
@@ -2222,8 +2222,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Check items to add to the cart or","Позначте елементи, які додати до кошика, або",module,Magento_Catalog
 "select all","вибрати все",module,Magento_Catalog
 "Items %1-%2 of %3","Позиції %1-%2 з %3",module,Magento_Catalog
-"%1 Item","%1 елемент",module,Magento_Catalog
-"%1 Items","%1 елементи(ів)",module,Magento_Catalog
+"%1 Item","%1 товар",module,Magento_Catalog
+"%1 Items","%1 Товара(ів)",module,Magento_Catalog
 "Show","Показати",module,Magento_Catalog
 "per page","на сторінці",module,Magento_Catalog
 "Sort By","Сортувати за",module,Magento_Catalog
@@ -2377,7 +2377,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Image","Зображення",module,Magento_Catalog
 "Learn More Link","Щоб дізнатися більше, перейдіть за посиланням",module,Magento_Catalog
 "Buttons to show","Кнопки для показу",module,Magento_Catalog
-"Add to Wishlist","Додати до списку бажань",module,Magento_Catalog
+"Add to Wishlist","Додати до Списку Бажань",module,Magento_Catalog
 "Viewed Products Grid Template","Таблична форма переглянутих товарів",module,Magento_Catalog
 "Viewed Products List Template","Шаблон списку переглянутих товарів",module,Magento_Catalog
 "Viewed Products Sidebar Template","Шаблон бічної панелі переглянутих товарів",module,Magento_Catalog
@@ -3317,7 +3317,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We can't delete root directory %1 right now.","Ми не можемо видалити кореневий каталог %1 прямо зараз.",module,Magento_Cms
 "Temporarily allowed to save HTML value that contains restricted elements. %1","Temporarily allowed to save HTML value that contains restricted elements. %1",module,Magento_Cms
 "Invalid HTML provided","Invalid HTML provided",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Політика конфіденційності та файлів cookie",module,Magento_Cms
 "NoSuchEntityException","NoSuchEntityException",module,Magento_Cms
 "Error message","Error message",module,Magento_Cms
 "LocalizedException","LocalizedException",module,Magento_Cms
@@ -7694,11 +7694,11 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Display Actual Price","Display Actual Price",module,Magento_Msrp
 "Default Popup Text Message","Default Popup Text Message",module,Magento_Msrp
 "Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
-"Wishlist","Список бажань",module,Magento_MultipleWishlist
+"Wishlist","Список Бажань",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Customer's Wish List Report",module,Magento_MultipleWishlist
-"My Wish Lists","Мої списки бажань",module,Magento_MultipleWishlist
-"1 item in wish list","1 елемент в списку бажань",module,Magento_MultipleWishlist
-"%1 items in wish list","%1 елемент(ів) в список побажань",module,Magento_MultipleWishlist
+"My Wish Lists","Мої Списки Бажань",module,Magento_MultipleWishlist
+"1 item in wish list","1 товар в списку бажань",module,Magento_MultipleWishlist
+"%1 items in wish list","%1 товара(ів) в список побажань",module,Magento_MultipleWishlist
 "Wish List Search","Wish List Search",module,Magento_MultipleWishlist
 "Select Search Type","Select Search Type",module,Magento_MultipleWishlist
 "Reports","Звіти",module,Magento_MultipleWishlist
@@ -7737,7 +7737,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "All Forms","Всі форми",module,Magento_MultipleWishlist
 "Owner Name","Ім'я власника",module,Magento_MultipleWishlist
 "Owner Email","Owner Email",module,Magento_MultipleWishlist
-"%1's Wish List","%1 в список побажань",module,Magento_MultipleWishlist
+"%1's Wish List","%1 в Список Побажань",module,Magento_MultipleWishlist
 "%1's Wish List (%2)","%1's Wish List (%2)",module,Magento_MultipleWishlist
 "Please enter a valid email address.","Будь ласка, введіть коректну адресу електронної пошти.",module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the first name.","Please enter at least 2 letters of the first name.",module,Magento_MultipleWishlist
@@ -7752,7 +7752,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "The wish list is not assigned to your account and can't be edited.","The wish list is not assigned to your account and can't be edited.",module,Magento_MultipleWishlist
 "Provide the wish list name.","Укажіть ім'я списку бажань.",module,Magento_MultipleWishlist
 "Only %1 wish list(s) can be created.","Only %1 wish list(s) can be created.",module,Magento_MultipleWishlist
-"Wish list ""%1"" already exists.","Список бажань ""%1"" вже існує.",module,Magento_MultipleWishlist
+"Wish list ""%1"" already exists.","Список Бажань ""%1"" вже існує.",module,Magento_MultipleWishlist
 "Test Phrase","Test Phrase",module,Magento_MultipleWishlist
 "Unknown Magento error","Unknown Magento error",module,Magento_MultipleWishlist
 "InvalidArgumentException","InvalidArgumentException",module,Magento_MultipleWishlist
@@ -7775,7 +7775,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Back","Назад",module,Magento_MultipleWishlist
 "Add to:","Add to:",module,Magento_MultipleWishlist
 "Create New Wish List","Створити Новий Список Бажань",module,Magento_MultipleWishlist
-"Move to Wish List","Перемістити до списку бажань",module,Magento_MultipleWishlist
+"Move to Wish List","Перемістити до Списку Бажань",module,Magento_MultipleWishlist
 "Copy to Wish List","Копіювати в Список Бажань",module,Magento_MultipleWishlist
 "Search Options","Search Options",module,Magento_MultipleWishlist
 "Required Fields","Обов'язкові поля",module,Magento_MultipleWishlist
@@ -11479,7 +11479,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Custom Price","Custom Price",module,Magento_Sales
 "Please select","Будь ласка, виберіть",module,Magento_Sales
 "Move to Shopping Cart","Move to Shopping Cart",module,Magento_Sales
-"Move to Wish List","Перемістити до списку бажань",module,Magento_Sales
+"Move to Wish List","Перемістити до Списку Бажань",module,Magento_Sales
 "Subscribe to Newsletter","Підписка на розсилку",module,Magento_Sales
 "Click to change shipping method","Натисніть щоб змінити спосіб доставки",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
@@ -13699,8 +13699,8 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Browse Files","Browse Files",module,Magento_Theme
 "Scope:","Область використання:",module,Magento_Theme
 "Remove","Вилучити",module,Magento_Theme
-"Help Us Keep Magento Healthy","Help Us Keep Magento Healthy",module,Magento_Theme
-"Report All Bugs","Report All Bugs",module,Magento_Theme
+"Help Us Keep Magento Healthy","Допоможіть нам підтримувати Magento",module,Magento_Theme
+"Report All Bugs","Повідомити про всі помилки",module,Magento_Theme
 "Welcome, %1!","Ласкаво просимо, %1!",module,Magento_Theme
 "Toggle Nav","Toggle Nav",module,Magento_Theme
 "Loading...","Loading...",module,Magento_Theme
@@ -13711,7 +13711,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Позиції з %1 по %2 із %3 всього",module,Magento_Theme
 "%1 Item","%1 елемент",module,Magento_Theme
-"%1 Item(s)","%1 Item(s)",module,Magento_Theme
+"%1 Item(s)","%1 Товар(а)",module,Magento_Theme
 "Page","Сторінка",module,Magento_Theme
 "Previous","Попереднє",module,Magento_Theme
 "You're currently reading page","You're currently reading page",module,Magento_Theme
@@ -14942,8 +14942,8 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Widget ID","Widget ID",module,Magento_Widget
 "Wish List","Список Бажань",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","Мій список бажань",module,Magento_Wishlist
-"%1's Wish List","%1 в список побажань",module,Magento_Wishlist
+"My Wish List","Мій Список Бажань",module,Magento_Wishlist
+"%1's Wish List","%1 в Список Побажань",module,Magento_Wishlist
 "Page not found.","Сторінка не знайдена.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
@@ -14955,7 +14955,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The cart item doesn't exist.","The cart item doesn't exist.",module,Magento_Wishlist
 "%1 has been moved to your wish list.","%1 has been moved to your wish list.",module,Magento_Wishlist
 "We can't move the item to the wish list.","We can't move the item to the wish list.",module,Magento_Wishlist
-"You must login or register to add items to your wishlist.","You must login or register to add items to your wishlist.",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","Ви повинні увійти або зареєструватися, щоб додати товари до свого списку бажань.",module,Magento_Wishlist
 "We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1.",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now.",module,Magento_Wishlist
 "Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Wishlist
@@ -14972,7 +14972,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "You added %1 to your shopping cart.","Ви додали %1 у Ваш кошик.",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
 "We can't create the Wish List right now.","We can't create the Wish List right now.",module,Magento_Wishlist
-"%1 items","%1 елементи(ів)",module,Magento_Wishlist
+"%1 items","%1 товара(ів)",module,Magento_Wishlist
 "1 item","1 позиція",module,Magento_Wishlist
 "Comment","Коментар",module,Magento_Wishlist
 "Display number of items in wish list","Відобразити кількість товарів у списку побажань",module,Magento_Wishlist
@@ -15012,10 +15012,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to remove this item?","Ви впевнені, що хочете вилучити цю позицію?",module,Magento_Wishlist
 "Special Price","Special Price",module,Magento_Wishlist
 "Regular Price","Regular Price",module,Magento_Wishlist
-"Share Wish List","Share Wish List",module,Magento_Wishlist
+"Share Wish List","Поділіться Cписком Бажань",module,Magento_Wishlist
 "Add All to Cart","Додати все до кошика",module,Magento_Wishlist
-"Update Wish List","Оновити список бажань",module,Magento_Wishlist
-"Move to Wishlist","Перемістити до списку бажань",module,Magento_Wishlist
+"Update Wish List","Оновити Список Бажань",module,Magento_Wishlist
+"Move to Wishlist","Перемістити до Списку Бажань",module,Magento_Wishlist
 "Add to Wish List","Додати до Списку Бажань",module,Magento_Wishlist
 "View Product","View Product",module,Magento_Wishlist
 "Qty","Кіл-ть",module,Magento_Wishlist
@@ -15044,8 +15044,8 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Видалити Цей Елемент",module,Magento_Wishlist
-"Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","У Вас немає товарів у списку бажань.",module,Magento_Wishlist
+"Go to Wish List","Перейти до Списку Бажань",module,Magento_Wishlist
+"You have no items in your wish list.","У Вас немає товарів у Списку бажань.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
 "View all Wish List items","View all Wish List items",module,Magento_Wishlist
@@ -15137,7 +15137,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend/Magento/blank
+"My Account","Мій обліковий запис",theme,frontend/Magento/blank
 "Now Shopping by","Тепер покупки за",theme,frontend/Magento/luma
 "Previous","Попереднє",theme,frontend/Magento/luma
 "Remove","Вилучити",theme,frontend/Magento/luma
