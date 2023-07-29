@@ -2198,7 +2198,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Buy %1 for: ","Придбати %1 за: ",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Придбати %1 по %2 за одиницю та <strong class=""benefit"">заощадити<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Придбати %1 по %2 за одиницю",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Ви додали товар %1 до <a href=""%2"">списку порівняння</a>.",module,Magento_Catalog
 "Shop By","Продукція за",module,Magento_Catalog
 "Shopping Options","Варіанти товарів",module,Magento_Catalog
 "Compare Products","Порівняти товари",module,Magento_Catalog
@@ -4790,7 +4790,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Contact Information","Контактна інформація",module,Magento_Customer
 "Change Password","Змінити пароль",module,Magento_Customer
 "Newsletters","Розсилки новин",module,Magento_Customer
-"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
+"You are subscribed to ""General Subscription"".","Ви підписані на ""Загальна підписка"".",module,Magento_Customer
 "or","або",module,Magento_Customer
 "My Account","Мій обліковий запис",module,Magento_Customer
 "Default Addresses","Адреси за промовчанням",module,Magento_Customer
@@ -4846,7 +4846,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Confirm Password","Підтвердьте пароль",module,Magento_Customer
 "Create an Account","Створити обліковий запис",module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Ви вийшли з системи та будете перенаправлені на головну сторінку через 5 секунд.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Ви повинні підтвердити свій обліковий запис. Вам на пошту відправлений лист з підтвердженням, перейдіть, будь ласка, за посиланням для підтвердження або, <a href=""%1""> натисніть тут</a> для повторної відправки листа.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
@@ -5030,7 +5030,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Add/Update Address","Add/Update Address",module,Magento_Customer
 "Edit Account Information","Редагувати обліковий запис",module,Magento_Customer
 "Password forgotten","Password forgotten",module,Magento_Customer
-"You are signed out","You are signed out",module,Magento_Customer
+"You are signed out","Ви вийшли",module,Magento_Customer
 "Store Credit","Store Credit",module,Magento_CustomerBalance
 "Delete Orphan Balances","Delete Orphan Balances",module,Magento_CustomerBalance
 "Date","Дата",module,Magento_CustomerBalance
@@ -8317,14 +8317,14 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Show All Quotes","Show All Quotes",module,Magento_NegotiableQuote
 "Show My Quotes","Show My Quotes",module,Magento_NegotiableQuote
 "Edit","Edit",module,Magento_NegotiableQuote
-"Ship Here","Ship Here",module,Magento_NegotiableQuote
+"Ship Here","Доставити сюди",module,Magento_NegotiableQuote
 "The shipping address specified on the quote was deleted from your Address Book.","The shipping address specified on the quote was deleted from your Address Book.",module,Magento_NegotiableQuote
 "To proceed with the checkout, go ","To proceed with the checkout, go ",module,Magento_NegotiableQuote
 "back to the quote","back to the quote",module,Magento_NegotiableQuote
 " and update the shipping address."," and update the shipping address.",module,Magento_NegotiableQuote
 "The shipping address specified on the quote was deleted from your Address Book. ","The shipping address specified on the quote was deleted from your Address Book. ",module,Magento_NegotiableQuote
 "To proceed with the checkout, update the shipping address.","To proceed with the checkout, update the shipping address.",module,Magento_NegotiableQuote
-"New Address","New Address",module,Magento_NegotiableQuote
+"New Address","Нова адреса",module,Magento_NegotiableQuote
 "Your shipping address is locked. To change your shipping address, go ","Your shipping address is locked. To change your shipping address, go ",module,Magento_NegotiableQuote
 "Shipping Methods","Shipping Methods",module,Magento_NegotiableQuote
 "Next","Next",module,Magento_NegotiableQuote
@@ -9634,7 +9634,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Quote
 "The item couldn't be removed from the quote.","The item couldn't be removed from the quote.",module,Magento_Quote
 "The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Quote
+"Minimum order amount is %1","Мінімальна сума замовлення %1",module,Magento_Quote
 "Invalid customer id %1","Invalid customer id %1",module,Magento_Quote
 "Invalid customer address id %1","Invalid customer address id %1",module,Magento_Quote
 "Invalid address id %1","Invalid address id %1",module,Magento_Quote
@@ -12732,7 +12732,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Date","Дата",module,Magento_Shipping
 "Local Time","Місцевий час",module,Magento_Shipping
 "Description","Опис",module,Magento_Shipping
-"See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
+"See our Shipping Policy","Ознайомтесь з умовами доставки",module,Magento_Shipping
 "Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
 "Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
 "Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
@@ -14963,7 +14963,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter an email address.","Будь ласка, введіть адресу електронної пошти.",module,Magento_Wishlist
 "Maximum of %1 emails can be sent.","Maximum of %1 emails can be sent.",module,Magento_Wishlist
 "Please enter a valid email address.","Будь ласка, введіть коректну адресу електронної пошти.",module,Magento_Wishlist
-"Your wish list has been shared.","Your wish list has been shared.",module,Magento_Wishlist
+"Your wish list has been shared.","Ваш список бажань було надіслано.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","We can't delete item from Wish List right now.",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 has been updated in your Wish List.",module,Magento_Wishlist
 "Can't save description %1","Can't save description %1",module,Magento_Wishlist
