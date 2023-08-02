@@ -3128,7 +3128,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "New Address","Нова адреса",module,Magento_Checkout
 "Shipping Methods","Shipping Methods",module,Magento_Checkout
 "Next","Next",module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Нажаль, немає доступних методів доставки для цього замовлення",module,Magento_Checkout
 "Order Summary","Всього",module,Magento_Checkout
 "View Details","Переглянути подробиці",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Поштовий індекс недійсний.",module,Magento_Checkout
@@ -8328,7 +8328,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Your shipping address is locked. To change your shipping address, go ","Your shipping address is locked. To change your shipping address, go ",module,Magento_NegotiableQuote
 "Shipping Methods","Shipping Methods",module,Magento_NegotiableQuote
 "Next","Next",module,Magento_NegotiableQuote
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_NegotiableQuote
+"Sorry, no quotes are available for this order at this time","Нажаль, немає доступних методів доставки для цього замовлення",module,Magento_NegotiableQuote
 "Update Catalog Prices","Update Catalog Prices",module,Magento_NegotiableQuote
 "If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.",module,Magento_NegotiableQuote
 "No ordered items","Немає замовлених позицій",module,Magento_NegotiableQuote
@@ -11430,7 +11430,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Pending Payment","Pending Payment",module,Magento_Sales
 "Processing","Обробка",module,Magento_Sales
 "On Hold","On Hold",module,Magento_Sales
-"Complete","Закінчувати",module,Magento_Sales
+"Complete","Виконано",module,Magento_Sales
 "Closed","Закриті",module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
 "Payment Review","Payment Review",module,Magento_Sales
@@ -11618,7 +11618,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваше замовлення #%increment_id було оновлено із статусом <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Рахунок-фактура для вашого замовлення %store_name",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Ваш рахунок-фактур #%invoice_id для замовлення #%order_id",module,Magento_Sales
-"Update to your %store_name invoice","Оновити рахунок-фактуру %store_name",module,Magento_Sales
+"Update to your %store_name invoice","Оновлення по рахунку від %store_name",module,Magento_Sales
 "Your %store_name order confirmation","Підтвердження замовлення %store_name",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відправлено.",module,Magento_Sales
@@ -13064,7 +13064,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Support Module doesn't support %s operation system","Support Module doesn't support %s operation system",module,Magento_Support
 "Unable to create backup due to php exec function is disabled","Unable to create backup due to php exec function is disabled",module,Magento_Support
 "Incomplete","Incomplete",module,Magento_Support
-"Complete","Закінчувати",module,Magento_Support
+"Complete","Виконано",module,Magento_Support
 "Failed","Не вдалося",module,Magento_Support
 "Directory %s should have writable & readable permissions","Directory %s should have writable & readable permissions",module,Magento_Support
 "Windows","Windows",module,Magento_Support
@@ -15175,7 +15175,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваше замовлення #%increment_id було оновлено із статусом <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Рахунок-фактура для вашого замовлення %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Ваш рахунок-фактур #%invoice_id для замовлення #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Оновити рахунок-фактуру %store_name",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Оновлення по рахунку від %store_name",theme,frontend/Magento/luma
 "Your %store_name order confirmation","Підтвердження замовлення %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відправлено.",theme,frontend/Magento/luma
@@ -15325,3 +15325,11 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Leave A Comment","Коментар до замовлення",module,Ulmod_OrderComment
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","або зателефонуйте нам по телефону <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","або зателефонуйте нам по телефону <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Pick in Store","Самовивіз",module,Magento_InventoryInStorePickupFrontend
+"Select Other","Обрати магазин",module,Magento_InventoryInStorePickupFrontend
+"Select Store","Обрати магазин",module,Magento_InventoryInStorePickupFrontend
+"We could not preselect pickup location based on available information, please select it manually.","Оберіть будь ласка магазин для отримання товару.",module,Magento_InventoryInStorePickupFrontend
+"Please provide postcode or city name to find nearest pickup locations.","Укажіть будь ласка поштовий індекс або назву міста.",module,Magento_InventoryInStorePickupFrontend
+"Search with postcode or city name...","Шукати за індексом або назвою міста...",module,Magento_InventoryInStorePickupFrontend
+"We were unable to find nearby locations for provided search query.","Нажаль немає магазину поруч згідно пошукового запиту.",module,Magento_InventoryInStorePickupFrontend
+"We'll email you an order and pick-up confirmation with details.","Ми надішлемо лист з деталями замовленням та підтвердження самовивозу на вказану електрону адресу.",module,Magento_InventoryInStorePickupFrontend
