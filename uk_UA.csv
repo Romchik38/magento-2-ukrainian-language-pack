@@ -10299,7 +10299,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Ratings","Рейтинг",module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
 "My Product Reviews","Мої відгуки про товар",module,Magento_Review
-"You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
+"You submitted your review for moderation.","Ваш відгук направлен на перевірку.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
 "The storage key wasn't set. Add the storage key and try again.","The storage key wasn't set. Add the storage key and try again.",module,Magento_Review
 "Approved","Approved",module,Magento_Review
