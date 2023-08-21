@@ -2588,7 +2588,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The fewest you may purchase is %1.","Ви можете придбати щонайменше %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Будь ласка, виправте кількості деяких товарів.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Ви можете придбати щонайбільше %1.",module,Magento_CatalogInventory
-"The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
+"The requested qty is not available","Вказана кількість недоступна",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","В нас немає стільки ""%1"", як ви запросили, проте ми додамо до відкладеного замовлення решту %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","В нас немає ""%1"" у кількості, яку ви запросили, тож ми додамо до відкладеного замовлення решту %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Ви можете придбати %1 тільки в кількостях %2 за раз.",module,Magento_CatalogInventory
@@ -10129,7 +10129,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product %1 has been added to the requisition list %2.","Product %1 has been added to the requisition list %2.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Options were updated. Please review available configurations.",module,Magento_RequisitionList
 "The SKU is out of stock.","The SKU is out of stock.",module,Magento_RequisitionList
-"The requested qty is not available","The requested qty is not available",module,Magento_RequisitionList
+"The requested qty is not available","Вказана кількість недоступна",module,Magento_RequisitionList
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Could not save Requisition List. Maximum number of requisition lists was exceeded.",module,Magento_RequisitionList
 "Could not save requisition list. Invalid data provided","Could not save requisition list. Invalid data provided",module,Magento_RequisitionList
 "Exception","Exception",module,Magento_RequisitionList
@@ -13983,7 +13983,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.","Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.",module,Magento_Ui
 "This link is not allowed.","This link is not allowed.",module,Magento_Ui
 "The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today.",module,Magento_Ui
-"Attention","Attention",module,Magento_Ui
+"Attention","Увага",module,Magento_Ui
 "OK","ОК",module,Magento_Ui
 "Ok","Гаразд",module,Magento_Ui
 "Label Button 2","Label Button 2",module,Magento_Ui
@@ -15333,3 +15333,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Search with postcode or city name...","Шукати за індексом або назвою міста...",module,Magento_InventoryInStorePickupFrontend
 "We were unable to find nearby locations for provided search query.","Нажаль немає магазину поруч згідно пошукового запиту.",module,Magento_InventoryInStorePickupFrontend
 "We'll email you an order and pick-up confirmation with details.","Ми надішлемо лист з деталями замовленням та підтвердження самовивозу на вказану електрону адресу.",module,Magento_InventoryInStorePickupFrontend
+"Enter Comment","Вкажіть коментар",module,Ulmod_OrderComment
+"remaining characters","залишилось символів",module,Ulmod_OrderComment
+"Enter your comment...","Вкажіть ваш коментар...",module,Ulmod_OrderComment
+
