@@ -15336,4 +15336,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Enter Comment","Вкажіть коментар",module,Ulmod_OrderComment
 "remaining characters","залишилось символів",module,Ulmod_OrderComment
 "Enter your comment...","Вкажіть ваш коментар...",module,Ulmod_OrderComment
-
+"Allow remote shopping assistance","Дозволити віддалений shopping assistance",module,Magento_LoginAsCustomerAssistance
+"Create New Customer Account","Створення нового акаунта користувача",module,Magento_Customer
+"Show Password","Показати пароль",module,Magento_Customer
